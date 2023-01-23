@@ -1,0 +1,5 @@
+github-repo: https://github.com/hamzaesmael/udapeople
+S3-Bucket: http://udapeople-a8c5589.s3-website-us-east-1.amazonaws.com
+CloudFront: https://d14xd057c596v4.cloudfront.net
+Backend-endpoint: ec2-52-70-104-7.compute-1.amazonaws.com
+Prometheus: ec2-44-201-225-51.compute-1.amazonaws.com
